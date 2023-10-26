@@ -20,6 +20,10 @@ Several visualizations were made to visualize the companies sales records, geogr
 
 # Results
 
+![tableau_ty86YZS0nJ](https://github.com/problemxl/tableau-demo/assets/16285595/5244b02d-30f9-4a50-8f90-2c8fd5041ab5)
+
+![tableau_HRRIjNWN8x](https://github.com/problemxl/tableau-demo/assets/16285595/30d1f3e8-e39d-410b-9c24-9bba3e658f06)
+
 The visualizations make a few things stand out clearly.
 
 1) This company sales are increasing consistently over the previous two years.
